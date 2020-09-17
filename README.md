@@ -33,8 +33,12 @@
 
 
  <summary>:zap: Github Stats</summary>
-
- <img align="left" alt="Peter's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=peter-yeh&show_icons=true&hide_border=true" />
+ <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="165" alt="My Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-yeh&card_width=250&hide=css&show_owner=true&show_icons=true&theme=vue&count_private=true&layout=compact&cache_seconds=1800" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="My GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=peter-yeh&show_icons=true&show_owner=true&theme=vue&count_private=true&cache_seconds=1800&include_all_commits=true" />
+</a>
 
 
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
