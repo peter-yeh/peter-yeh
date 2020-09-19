@@ -2,8 +2,6 @@
 
 - 🏫 I'm a Computer Science Year 2 student
 - ‍🎓 I’m currently studying in NUS, Singapore
-- 🎾 Plays tennis and computer game
-- 🖥 Likes computers 
 
 ### Apps I have done
 - https://connect.unity.com/mg/other/the-last-stand-1
