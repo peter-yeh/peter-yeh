@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=peter-yeh&show_icons=true &show_owner=true &count_private=true &include_all_commits=true" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=peter-yeh&card_width=250 &show_icons=true &show_owner=true &count_private=true &include_all_commits=true" />
 </a>
 
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
