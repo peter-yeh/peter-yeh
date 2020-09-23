@@ -1,7 +1,7 @@
 ## Hi there, I'm Peter 👋
 
-- 🏫 I'm a Computer Science Year 2 student
-- ‍🎓 I’m currently studying in NUS, Singapore
+- 🏫 Computer Science Year 2 student
+- ‍🎓 Ccurrently studying in NUS, Singapore
 
 ### Apps I have done
 - https://connect.unity.com/mg/other/the-last-stand-1
