@@ -23,3 +23,5 @@
 
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
 [linkedin]: https://www.linkedin.com/in/YehYuChun
+
+<!-- I am a passionate software developer who wants to build efficient web applications to help digitalise mundane workflows. -->
