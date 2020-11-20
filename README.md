@@ -3,8 +3,10 @@
 - 🏫 Computer Science Year 2 student
 - ‍🎓 Currently studying in NUS, Singapore
 
-### Apps I have done
+### Apps or projects I have done
 - https://connect.unity.com/mg/other/the-last-stand-1
+- https://peter-yeh.github.io/ip/
+- https://ay2021s1-cs2103t-t09-3.github.io/tp/
 
 ### Connect with me:
 [<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
