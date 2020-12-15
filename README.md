@@ -3,7 +3,7 @@
 - 🏫 Computer Science Year 2 student
 - ‍🎓 Currently studying in NUS, Singapore
 
-### Apps or projects I have done
+### Notable projects I have done
 - https://connect.unity.com/mg/other/the-last-stand-1 source code (https://github.com/peter-yeh/The-Last-Stand)
 - https://peter-yeh.github.io/ip/
 - https://ay2021s1-cs2103t-t09-3.github.io/tp/
