@@ -9,7 +9,6 @@
 - https://ay2021s1-cs2103t-t09-3.github.io/tp/
 
 ### Connect with me:
-[<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
