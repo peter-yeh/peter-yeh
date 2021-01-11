@@ -24,9 +24,10 @@
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=peter-yeh&card_width=250 &show_icons=true &show_owner=true &count_private=true &include_all_commits=true" /></a>
 
 
-<!-- Others
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
 [linkedin]: https://www.linkedin.com/in/YehYuChun
+
+<!-- Others
 
 I am a passionate software developer who wants to build efficient web applications to help digitalise mundane workflows.
 
