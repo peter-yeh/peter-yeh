@@ -2,6 +2,7 @@
 
 - 🏫 Computer Science Year 2 student
 - ‍🎓 Currently studying in NUS, Singapore
+- Aspiring Software engineer and mobile developer
 
 ### Notable projects I have done
 - [Summer holiday unity project 2020](https://connect.unity.com/mg/other/the-last-stand-1 "The Last Stand"), [source code.](https://github.com/peter-yeh/The-Last-Stand "View on GitHub")
