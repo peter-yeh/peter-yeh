@@ -8,10 +8,11 @@
 - [Task manager written in Java with JavaFX](https://peter-yeh.github.io/ip/ "User guide")
 - [Travel Planner written in java with JavaFX](https://ay2021s1-cs2103t-t09-3.github.io/tp/ "TrackPad")
 - [December holiday unity project 2020](https://llhy.itch.io/iwonbyablob "I won by a blob!")
-<!-- -[Base converter -- app that converts between different bases with high precision](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter) "View on Play store"-- >
+
+<!-- -[Base converter -- app that converts between different bases with high precision](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter) "View on Play store" -->
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/YehYuChun)
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
 ### Github Stats
@@ -25,6 +26,7 @@
 
 <!-- Others
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
+[linkedin]: https://www.linkedin.com/in/YehYuChun
 
 I am a passionate software developer who wants to build efficient web applications to help digitalise mundane workflows.
 
