@@ -9,7 +9,7 @@
 - Travel Planner - [Java with JavaFX](https://ay2021s1-cs2103t-t09-3.github.io/tp/ "TrackPad"), [source code](https://github.com/peter-yeh/tp "View on GitHub")
 - Base converter - [Android Project](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter "View on Play store")
 - I won by a blob - [Unity project](https://llhy.itch.io/iwonbyablob "I won by a blob!"), [source code](https://github.com/peter-yeh/gamecraft2020 "View on GitHub")
-- Tasks manager - [Web project with reactjs and ruby on rails hosted on Heroku (Takes 15s to load)](https://task-manager-petery.herokuapp.com/ "Heroku"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
+- Tasks manager - [Ruby on rails(backend) with Reactjs(frontend) with typescript and axios calls. Hosted on Heroku (Takes 15s to load)](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
