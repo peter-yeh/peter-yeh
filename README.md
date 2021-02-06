@@ -7,7 +7,7 @@
 - The Last stand - [Unity project](https://connect.unity.com/mg/other/the-last-stand-1 "The Last Stand"), [source code](https://github.com/peter-yeh/The-Last-Stand "View on GitHub")
 - Task manager - [Java with JavaFx project](https://peter-yeh.github.io/ip/ "User guide"), [source code](https://github.com/peter-yeh/ip "View on GitHub")
 - Travel Planner - [Java with JavaFX](https://ay2021s1-cs2103t-t09-3.github.io/tp/ "TrackPad"), [source code](https://github.com/peter-yeh/tp "View on GitHub")
-- Base converter - [Android Project](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter "View on Play store")
+- Base converter - [Android App](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter "View on Play store")
 - I won by a blob - [Unity project](https://llhy.itch.io/iwonbyablob "I won by a blob!"), [source code](https://github.com/peter-yeh/gamecraft2020 "View on GitHub")
 - Tasks manager - [Ruby on rails(backend) with Reactjs(frontend) with typescript and axios calls. Hosted on Heroku (Takes 15s to load)](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
 
