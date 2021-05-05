@@ -10,6 +10,7 @@
 - Base converter - [Android App](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter "View on Play store")
 - I won by a blob - [Unity project](https://llhy.itch.io/iwonbyablob "I won by a blob!"), [source code](https://github.com/peter-yeh/gamecraft2020 "View on GitHub")
 - Tasks manager - [Ruby on rails(backend) with Reactjs(frontend) with typescript and axios calls. Hosted on Heroku (Takes 15s to load)](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
+- SolLabs - [download game](https://drive.google.com/drive/folders/1x0lrQuS7OrbQWlvE_eU8L_V9kHQ75OE2), [view posters](https://uvents.nus.edu.sg/event/18th-steps/module/CS3247/project/6), [source code](https://gitlab.com/peter-yeh1/cs3247gamedevteam6)
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
