@@ -2,6 +2,7 @@
 
 - ‍🎓 Year 2 Computer Science student in NUS, Singapore
 - 📱 Aspiring Software Engineer and Mobile Developer
+- Currently learning react native for mobile web dev
 
 ### Notable projects I have done
 - The Last stand - [Unity project](https://connect.unity.com/mg/other/the-last-stand-1 "The Last Stand, the page may get stuck (cold fetch), refresh the page a again after a while to try out my game."), [source code](https://github.com/peter-yeh/The-Last-Stand "View on GitHub")
