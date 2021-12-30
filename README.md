@@ -1,6 +1,6 @@
 ## Hi there, I'm Peter 👋
 
-- ‍🎓 Year 2 Computer Science student in NUS, Singapore
+- ‍🎓 Year 3 Computer Science student in NUS, Singapore
 - 📱 Aspiring Software Engineer and Mobile Developer
 - Currently learning react native, aws graphql for web dev
 
