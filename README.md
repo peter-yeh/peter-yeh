@@ -6,14 +6,23 @@
 - Currently learning Angular, Flask
 
 ### Notable projects I have done
+#### Web App
+- Tasks manager - [Ruby on rails, Reactjs, typescript, axios. Hosted on Heroku](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
+- Url shortener - [Flask Angular Sqlite3 Heroku](https://intelligent-monsieur-10324.herokuapp.com/ "Go to Heroku"), [source code](https://github.com/peter-yeh/Shortener "View on GitHub")
+- Match score calculator - [Flask Angular Sqlite3 Heroku](https://joli-maison-71130.herokuapp.com/ "Go To Heroku"), [source code](https://github.com/peter-yeh/ChampionshipTracker "View on GitHub")
+
+## Games
 - The Last stand - [Unity project](https://connect.unity.com/mg/other/the-last-stand-1 "The Last Stand, the page may get stuck (cold fetch), refresh the page a again after a while to try out my game."), [source code](https://github.com/peter-yeh/The-Last-Stand "View on GitHub")
+- I won by a blob - [Unity project](https://llhy.itch.io/iwonbyablob "I won by a blob!"), [source code](https://github.com/peter-yeh/gamecraft2020 "View on GitHub")
+- SolLabs - [Unreal Engine, download game](https://drive.google.com/drive/folders/1x0lrQuS7OrbQWlvE_eU8L_V9kHQ75OE2), [view posters](https://uvents.nus.edu.sg/event/18th-steps/module/CS3247/project/6), [source code](https://gitlab.com/peter-yeh1/cs3247gamedevteam6)
+- Endangerous - [Unity3D project, game website](https://uvents.nus.edu.sg/event/19th-steps/module/CS4350/project/3), [itch.io](https://indiepandas.itch.io/endangerous), [source code](https://gitlab.com/indie-pandas/endangerous), [blog](https://indiepandasgames.wixsite.com/website/blog)
+
+
+### Other Apps
 - Task manager - [Java with JavaFx project](https://peter-yeh.github.io/ip/ "User guide"), [source code](https://github.com/peter-yeh/ip "View on GitHub")
 - Travel Planner - [Java with JavaFX](https://ay2021s1-cs2103t-t09-3.github.io/tp/ "TrackPad"), [source code](https://github.com/peter-yeh/tp "View on GitHub")
 - Base converter - [Android App](https://play.google.com/store/apps/details?id=com.peteryeh.allbaseconverter "View on Play store")
-- I won by a blob - [Unity project](https://llhy.itch.io/iwonbyablob "I won by a blob!"), [source code](https://github.com/peter-yeh/gamecraft2020 "View on GitHub")
-- Tasks manager - [Ruby on rails, Reactjs, typescript, axios. Hosted on Heroku (Takes 15s to load)](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
-- SolLabs - [Unreal Engine, download game](https://drive.google.com/drive/folders/1x0lrQuS7OrbQWlvE_eU8L_V9kHQ75OE2), [view posters](https://uvents.nus.edu.sg/event/18th-steps/module/CS3247/project/6), [source code](https://gitlab.com/peter-yeh1/cs3247gamedevteam6)
-- Endangerous - [Unity3D project, game website](https://uvents.nus.edu.sg/event/19th-steps/module/CS4350/project/3), [itch.io](https://indiepandas.itch.io/endangerous), [source code](https://gitlab.com/indie-pandas/endangerous), [blog](https://indiepandasgames.wixsite.com/website/blog)
+
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
