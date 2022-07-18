@@ -11,6 +11,7 @@
 - Url shortener - [Flask Angular Sqlite3 Heroku](https://intelligent-monsieur-10324.herokuapp.com/ "Go to Heroku"), [source code](https://github.com/peter-yeh/Shortener "View on GitHub")
 - Match score calculator - [Flask Angular Sqlite3 Heroku](https://joli-maison-71130.herokuapp.com/ "Go To Heroku"), [source code](https://github.com/peter-yeh/ChampionshipTracker "View on GitHub")
 - Tasks manager - [Ruby on rails, Reactjs, typescript, axios. Hosted on Heroku](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
+- Salary management - Flask Angular, [source code](https://github.com/peter-yeh/salary-management "View on GitHub")
 
 
 #### Games
