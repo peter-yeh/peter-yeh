@@ -31,18 +31,5 @@
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
-### Github Stats
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-yeh&card_width=250 &show_icons=true &show_owner=true &count_private=true &include_all_commits=true &layout=compact" /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=peter-yeh&card_width=250 &show_icons=true &show_owner=true &count_private=true &include_all_commits=true" /></a>
-
-
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
 [linkedin]: https://www.linkedin.com/in/YehYuChun
-
-<!-- 
-I am a passionate software developer who wants to build efficient web applications to help digitalise mundane workflows
--->
