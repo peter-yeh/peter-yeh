@@ -8,6 +8,14 @@
 
 ## Notable projects I have done
 #### Web App
+| | |
+| --- | --- |
+| Frontend | Angular, React Native, Next.js |
+| Backend | Flask, AWS Amplify |
+| Build | Npm, Yarn, Expo |
+
+
+
 - Url shortener - [Flask Angular Sqlite3 Heroku](https://intelligent-monsieur-10324.herokuapp.com/ "Go to Heroku"), [source code](https://github.com/peter-yeh/Shortener "View on GitHub")
 - Match score calculator - [Flask Angular Sqlite3 Heroku](https://joli-maison-71130.herokuapp.com/ "Go To Heroku"), [source code](https://github.com/peter-yeh/ChampionshipTracker "View on GitHub")
 - Tasks manager - [Ruby on rails, Reactjs, typescript, axios. Hosted on Heroku](https://task-manager-petery.herokuapp.com/ "Heroku, view online"), [source code](https://github.com/peter-yeh/TaskManager-on-rails "View on GitHub")
@@ -15,6 +23,10 @@
 
 
 #### Games
+| | |
+| --- | --- |
+| Unity | C# |
+| UnrealEngine | - |
 - The Last stand - [Unity project](https://connect.unity.com/mg/other/the-last-stand-1 "The Last Stand, the page may get stuck (cold fetch), refresh the page a again after a while to try out my game."), [source code](https://github.com/peter-yeh/The-Last-Stand "View on GitHub")
 - I won by a blob - [Unity project](https://llhy.itch.io/iwonbyablob "I won by a blob!"), [source code](https://github.com/peter-yeh/gamecraft2020 "View on GitHub")
 - SolLabs - [Unreal Engine, download game](https://drive.google.com/drive/folders/1x0lrQuS7OrbQWlvE_eU8L_V9kHQ75OE2), [view posters](https://uvents.nus.edu.sg/event/18th-steps/module/CS3247/project/6), [source code](https://gitlab.com/peter-yeh1/cs3247gamedevteam6)
