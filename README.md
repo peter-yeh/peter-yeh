@@ -45,3 +45,40 @@
 
 [stackoverflow]: https://stackoverflow.com/users/11105288/peter
 [linkedin]: https://www.linkedin.com/in/YehYuChun
+
+
+### Past Competitions
+
+#### Singtel Lit Challenge 2022, 1st runner up | Jul 2022
+Collaborated in a company hackathon to identify use cases for AR/VR with 5G, aiming to increase adoption rates.
+Leveraged expertise in AR/VR to refine and improve the feasibility of the proposed solution.
+
+#### NUS 18th Steps Challenge CS4350, 1st runner up, Sol Labs | Jan 2021 - May 2021
+Led the game development group project, utilizing GitLab to manage tickets, create and assign tasks, and assist teammates in resolving obstacles to maintain focus and ensure smooth collaboration.
+Developed a 3D First Player Puzzle Game and optimized the Unreal Engine setting to reduce build size and improve frame rates for a smoother game play.
+
+#### NUS Hack&Roll 2020, Most Socially Useful Hack | Jan 2020
+Created a Telegram chatbot to help users track perishable food, recommending recipes based on available ingredients to reduce food waste.
+
+#### Singapore Airlines AppChallenge 2019, 1st runner up | Aug 2019 - Oct 2019
+Analyzed customer feedback through airport surveys to identify lost baggage as a critical issue for both new and frequent fliers.
+Developed a mobile web app that allows users to easily access baggage information and report lost luggage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
